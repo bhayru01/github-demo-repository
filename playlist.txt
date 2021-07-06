@@ -1,5 +1,5 @@
 SONG ARTIST
 ===========
 
-Song - 1
-Song - 2
+New Song - 1
+New Song - 2
